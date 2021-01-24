@@ -1,0 +1,7 @@
+Week2 & Week3 reading material
+------------------------------
+https://git-scm.com/book/en/v2
+
+https://www.perforce.com/blog/vcs/what-is-version-control
+
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
