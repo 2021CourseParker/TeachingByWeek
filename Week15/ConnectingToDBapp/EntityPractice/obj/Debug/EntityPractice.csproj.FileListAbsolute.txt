@@ -1,0 +1,27 @@
+C:\Users\Milos Vulikic\source\repos\ConnectingToDBapp\EntityPractice\bin\Debug\EntityPractice.exe.config
+C:\Users\Milos Vulikic\source\repos\ConnectingToDBapp\EntityPractice\bin\Debug\EntityPractice.exe
+C:\Users\Milos Vulikic\source\repos\ConnectingToDBapp\EntityPractice\bin\Debug\EntityPractice.pdb
+C:\Users\Milos Vulikic\source\repos\ConnectingToDBapp\EntityPractice\bin\Debug\EntityFramework.dll
+C:\Users\Milos Vulikic\source\repos\ConnectingToDBapp\EntityPractice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Milos Vulikic\source\repos\ConnectingToDBapp\EntityPractice\bin\Debug\EntityFramework.xml
+C:\Users\Milos Vulikic\source\repos\ConnectingToDBapp\EntityPractice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Milos Vulikic\source\repos\ConnectingToDBapp\EntityPractice\obj\Debug\EntityPractice.SchoolForm.resources
+C:\Users\Milos Vulikic\source\repos\ConnectingToDBapp\EntityPractice\obj\Debug\EntityPractice.Properties.Resources.resources
+C:\Users\Milos Vulikic\source\repos\ConnectingToDBapp\EntityPractice\obj\Debug\EntityPractice.csproj.GenerateResource.cache
+C:\Users\Milos Vulikic\source\repos\ConnectingToDBapp\EntityPractice\obj\Debug\EntityPractice.csproj.CopyComplete
+C:\Users\Milos Vulikic\source\repos\ConnectingToDBapp\EntityPractice\obj\Debug\EntityPractice.exe
+C:\Users\Milos Vulikic\source\repos\ConnectingToDBapp\EntityPractice\obj\Debug\EntityPractice.pdb
+C:\Users\Milos Vulikic\Documents\Work\Programming teaching\Parker - course 2\TeachingByWeek\Week15\ConnectingToDBapp\EntityPractice\bin\Debug\EntityPractice.exe.config
+C:\Users\Milos Vulikic\Documents\Work\Programming teaching\Parker - course 2\TeachingByWeek\Week15\ConnectingToDBapp\EntityPractice\bin\Debug\EntityPractice.exe
+C:\Users\Milos Vulikic\Documents\Work\Programming teaching\Parker - course 2\TeachingByWeek\Week15\ConnectingToDBapp\EntityPractice\bin\Debug\EntityPractice.pdb
+C:\Users\Milos Vulikic\Documents\Work\Programming teaching\Parker - course 2\TeachingByWeek\Week15\ConnectingToDBapp\EntityPractice\bin\Debug\EntityFramework.dll
+C:\Users\Milos Vulikic\Documents\Work\Programming teaching\Parker - course 2\TeachingByWeek\Week15\ConnectingToDBapp\EntityPractice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Milos Vulikic\Documents\Work\Programming teaching\Parker - course 2\TeachingByWeek\Week15\ConnectingToDBapp\EntityPractice\bin\Debug\EntityFramework.xml
+C:\Users\Milos Vulikic\Documents\Work\Programming teaching\Parker - course 2\TeachingByWeek\Week15\ConnectingToDBapp\EntityPractice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Milos Vulikic\Documents\Work\Programming teaching\Parker - course 2\TeachingByWeek\Week15\ConnectingToDBapp\EntityPractice\obj\Debug\EntityPractice.csprojAssemblyReference.cache
+C:\Users\Milos Vulikic\Documents\Work\Programming teaching\Parker - course 2\TeachingByWeek\Week15\ConnectingToDBapp\EntityPractice\obj\Debug\EntityPractice.SchoolForm.resources
+C:\Users\Milos Vulikic\Documents\Work\Programming teaching\Parker - course 2\TeachingByWeek\Week15\ConnectingToDBapp\EntityPractice\obj\Debug\EntityPractice.Properties.Resources.resources
+C:\Users\Milos Vulikic\Documents\Work\Programming teaching\Parker - course 2\TeachingByWeek\Week15\ConnectingToDBapp\EntityPractice\obj\Debug\EntityPractice.csproj.GenerateResource.cache
+C:\Users\Milos Vulikic\Documents\Work\Programming teaching\Parker - course 2\TeachingByWeek\Week15\ConnectingToDBapp\EntityPractice\obj\Debug\EntityPractice.csproj.CopyComplete
+C:\Users\Milos Vulikic\Documents\Work\Programming teaching\Parker - course 2\TeachingByWeek\Week15\ConnectingToDBapp\EntityPractice\obj\Debug\EntityPractice.exe
+C:\Users\Milos Vulikic\Documents\Work\Programming teaching\Parker - course 2\TeachingByWeek\Week15\ConnectingToDBapp\EntityPractice\obj\Debug\EntityPractice.pdb
