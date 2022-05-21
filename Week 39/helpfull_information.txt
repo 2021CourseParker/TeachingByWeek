@@ -1,0 +1,24 @@
+DATABASE
+
+--Show all the records -- per dificulty level
+
+select r.id, p.Name, d.LevelName, r.Point from Records r 
+inner join Players p on p.ID = r.PlayerID
+inner join DifficultyLevels d on d.ID = r.DifficultyLevelID
+--Where r.ID = 1
+order by point desc
+
+--------------------------------------------------------------
+--Show the rules per difficulty level
+
+select dl.ID, dl.LevelName, dlr.Name as ruleName, dlr.Speed, dlr.Obstacle from DifficultyLevels dl
+inner join DifficultyLevelRules dlr on dlr.ID = dl.LevelRuleId
+
+--------------------------------------------------------------
+
+VIEWS 
+
+TABLE FOR RECORDS - borrow from here
+https://getbootstrap.com/docs/4.0/content/tables/
+
+
